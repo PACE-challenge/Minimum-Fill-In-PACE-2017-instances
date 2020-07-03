@@ -4,4 +4,4 @@ These instances were used in Track B of [The Second Parameterized Algorithms and
 
 ### File Format
 
-Each `.graph`-file contains a list of vertex-pairs, constituting an undirected edge. 
+Each `.graph`-file contains a list of vertex-pairs, constituting an undirected edge. Each line corresponds to one edge. The vertices of the edge are separated by a whitespace. Vertex ids are integers of value at least 1. Lines starting with '#' are comments.
